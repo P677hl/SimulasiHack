@@ -16,7 +16,7 @@ $ apt update && apt upgrade
 
 $ pkg install git
 
-$ git clone https://github.com/p677hl/SimulasiHack
+$ git clone https://github.com/P677hl/SimulasiHack.git
 
 $ cd SimulasiHack
 

@@ -27,4 +27,4 @@ sh bahan.sh
 sh Play.sh
 ```
 
-<h1> jangan reupload</h2>
+<h1> jangan reupload</h1>

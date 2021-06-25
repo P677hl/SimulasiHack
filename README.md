@@ -27,4 +27,5 @@ sh bahan.sh
 sh Play.sh
 ```
 
-<h3> Pemilik tools tidak mengizinkan pengguna lain mereupload tools ini</h3>
+<h3> Note:</h3>
+~Pemilik tools tidak mengizinkan pengguna lain mereupload tools ini

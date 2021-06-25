@@ -12,16 +12,13 @@ Ini hanyalah tools hack simulasi, bukan tools asli, tetapi tools ini sudah di di
 # Tutorial
 
 
+```
 $ apt update && apt upgrade
-
 $ pkg install git
-
 $ git clone https://github.com/P677hl/SimulasiHack.git
-
 $ cd SimulasiHack
-
 $ sh bahan.sh
-
 $ sh Play.sh
+```
 
 # jangan reupload

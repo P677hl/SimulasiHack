@@ -28,4 +28,4 @@ sh Play.sh
 ```
 
 <h3> Note:</h3>
-~Pemilik tools tidak mengizinkan pengguna lain mereupload tools ini
+~Saya tidak mengizinkan pengguna lain mereupload tools ini

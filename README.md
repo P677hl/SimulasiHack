@@ -12,6 +12,9 @@ Ini hanyalah tools hack simulasi, bukan tools asli, tetapi tools ini sudah di di
 apt update && apt upgrade
 ```
 ```
+pkg install bash
+```
+```
 pkg install git
 ```
 ```

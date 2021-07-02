@@ -3,7 +3,10 @@
 
 Ini hanyalah tools hack simulasi, bukan tools asli, tetapi tools ini sudah di didesain sedemikian rupa mirip dengan aslinya
 
-# [Download](https://play.google.com/store/apps/details?id=com.termux) Termux
+<h2> Download Termux</h2>
+
+
+<a href="https://play.google.com/store/apps/details?id=com.termux" target="black"><img align="center" src="https://semawur.com/img/download_1.png" alt="Termux" width="125px" /></a>
 
 <h2> Command</h2>
 
